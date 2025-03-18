@@ -24,8 +24,6 @@ Copy and paste it into your repository from the `actions/` directory as you like
 
 ## 🌍 For contributer
 
-- Rules:
-
 This project follows a specific naming convention for files that need to be maintained, ensuring consistency and ease of management.
 
 If you plan to add a CI workflow for building and artifacting Rust code, please make sure to place it in the designated directory:
@@ -57,15 +55,6 @@ This helps keep the project structure organized and makes it easier for contribu
 > Do not add non-functional workflows!
 >
 > When creating a Pull Request, please include the GitHub URL where the workflow has been executed to verify its functionality. Additionally, it is preferable to standardize workflow files.
-
-- By contributing to this project, you agree to the following terms:
-
-1. **You grant a license**: You grant the project owner a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, modify, distribute, and sublicense your contributions under the **Apache License 2.0**.
-2. **You retain ownership**: You still own the copyright of your contribution, but you waive any claims against the project related to your contribution.
-3. **No additional patent rights**: You **do not** grant additional patent rights beyond what is covered by Apache 2.0.
-4. **Your contributions are original**: You confirm that your contributions do not violate any third-party rights.
-
-By submitting a pull request, you agree to these terms.
 
 ## 📜 License
 
