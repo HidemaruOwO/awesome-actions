@@ -70,15 +70,12 @@ By submitting a pull request, you agree to these terms.
 ## 📜 License
 
 <div align="left" style="flex: inline" >
-<a href="https://www.apache.org/licenses/LICENSE-2.0" >
-<img src="https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg" alt="Apache License 2.0"
-</a>
 <a href="https://github.com/MakeNowJust/sushi-ware" >
 <img src="https://img.shields.io/badge/License-SUSHI--WARE%20%F0%9F%8D%A3-blue.svg" alt="SUSHI-WARE LICENSE"
 </a>
 </div>
 
-This project is dual-licensed under [Apache License 2.0](licenses/APACHE-2.0.txt) and [SUSHI-WARE LICENSE](licenses/SUSHI-WARE.txt).
+This project is licensed under [SUSHI-WARE LICENSE](licenses/SUSHI-WARE.txt).
 
 A reference to the latest license should be used, even if the attached license is outdated of major versions.
 
